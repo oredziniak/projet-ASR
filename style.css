@@ -1,6 +1,29 @@
+body {
+    background-color: #F0E68C; /* Couleur de fond pour toute la page */
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333; /* Couleur de fond pour l'en-tête */
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
 .project {
-  background-color: #578f60;
-  border: 1px solid #333;
-  padding: 10px;
-  margin: 10px;
+    background-color: #FFF; /* Couleur de fond pour chaque section de projet */
+    border: 1px solid #333;
+    margin: 10px;
+    padding: 10px;
+}
+
+a {
+    color: #007BFF; /* Couleur du lien */
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline; /* Effet au survol du lien */
 }
