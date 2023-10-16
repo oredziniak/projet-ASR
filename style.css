@@ -1,8 +1,6 @@
 body {
-    background: linear-gradient(to bottom, #800080, #FF00FF); /* Couleur de fond pour toute la page */
-    font-family: Arial, sans-serif;
-    margin: 10;
-    padding: 0;
+            background-image: url('background.jpg');
+            background-size: cover;
 }
 
 header {
