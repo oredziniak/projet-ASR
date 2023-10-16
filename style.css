@@ -4,7 +4,7 @@ body {
 }
 
 header {
-    background-color: rgba(255, 255, 255, 0.1); /* Couleur de fond pour l'en-tête */
+    background-color: rgba(255, 255, 255, 0.8); /* Couleur de fond pour l'en-tête */
     color: #fff;
     text-align: center;
     padding: 20px;
