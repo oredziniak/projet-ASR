@@ -1,8 +1,9 @@
 body {
-            background-image: url('Images/background.jpg');
-            background-size: cover;
+    background-image: url('Images/background.jpg');
+    background-size: cover; /* Ajustez la taille de l'image à la fenêtre du navigateur */
+    background-position: center center; /* Centrer l'image */
+    box-shadow: inset 0 0 0 200px rgba(0, 0, 0, 0.5); /* Ajouter l'effet d'ombrage */
 }
-
 
 
 header {
@@ -15,7 +16,7 @@ header {
 }
 
 .project {
-    background-color: rgba(34,36, 50, 1); /* Couleur de fond pour chaque section de projet */
+    background-color: rgba(34,36, 50, 0.5); /* Couleur de fond pour chaque section de projet */
     color: #fff;
     font-family: "Helvetica", sans-serif;
     font-size: 16px;
