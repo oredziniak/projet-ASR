@@ -5,6 +5,10 @@ body {
     box-shadow: inset 0 0 0 200px rgba(0, 0, 0, 0.5); /* Ajouter l'effet d'ombrage */
 }
 
+.image-classe {
+    width: 300px; /* Définissez la largeur souhaitée */
+    height: auto; /* Ajuste automatiquement la hauteur en fonction de la largeur pour maintenir les proportions de l'image */
+}
 
 header {
     /*background-color: rgba(0, 0, 0, 0.9); /* Couleur de fond pour l'en-tête */
