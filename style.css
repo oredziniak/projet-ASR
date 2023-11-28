@@ -1,1 +1,14 @@
+body {
+    font-family: Arial, sans-serif; /* Choisissez la police de caractères que vous préférez */
+    background-color: #f0f0f0; /* Couleur de fond de la page */
+    color: black; /* Couleur du texte */
+    margin: 0;
+    padding: 0;
+}
 
+.conteneur {
+    max-width: 800px; /* Largeur maximale du contenu de la page */
+    margin: 50px auto; /* Centrer le contenu de la page */
+    padding: 20px;
+    text-align: center; /* Aligner le texte au centre */
+}
