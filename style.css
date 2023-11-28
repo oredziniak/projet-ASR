@@ -15,5 +15,5 @@ body {
 
 h1 {
     text-align: center; /* Centre le texte à l'intérieur de l'élément h1 */
-    font-size: 50; /* Ajustez la taille de police selon vos préférences */
+    font-size: 50px; /* Ajustez la taille de police selon vos préférences */
 }
