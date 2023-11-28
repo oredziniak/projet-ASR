@@ -12,3 +12,7 @@ body {
     padding: 20px;
     text-align: center; /* Aligner le texte au centre */
 }
+
+h1 {
+    text-align: center; /* Centre le texte à l'intérieur de l'élément h1 */
+}
