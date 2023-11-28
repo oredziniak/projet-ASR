@@ -7,6 +7,14 @@ body {
     padding: 0; /* Pour éliminer le rembourrage par défaut du corps */
 }
 
+.title-box {
+    background-color: #f0f0f0; /* Couleur de fond de la boîte */
+    border-radius: 10px; /* Coins arrondis */
+    padding: 20px; /* Espacement intérieur de la boîte */
+    text-align: center; /* Centre le texte à l'intérieur de la boîte */
+    margin: 20px; /* Marge autour de la boîte */
+}
+    
 .conteneur {
     max-width: 800px; /* Largeur maximale du contenu de la page */
     margin: 50px auto; /* Centrer le contenu de la page */
