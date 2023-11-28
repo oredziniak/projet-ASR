@@ -1,9 +1,10 @@
 body {
-    font-family: Arial, sans-serif; /* Choisissez la police de caractères que vous préférez */
-    background-color: #f0f0f0; /* Couleur de fond de la page */
-    color: black; /* Couleur du texte */
-    margin: 0;
-    padding: 0;
+    background-image: url('Images/background.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    margin: 0; /* Pour éliminer la marge par défaut du corps */
+    padding: 0; /* Pour éliminer le rembourrage par défaut du corps */
 }
 
 .conteneur {
